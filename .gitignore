@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv*
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# STM32 build outputs
+stm32/**/Debug/
+stm32/**/Release/
